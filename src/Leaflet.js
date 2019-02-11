@@ -1,4 +1,4 @@
-
+//Tomi Maci se vrací
 import {version} from '../package.json';
 export {version};
 
